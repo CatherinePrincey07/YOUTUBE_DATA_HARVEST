@@ -78,4 +78,5 @@
 
 
 ## Video link:
+https://www.linkedin.com/posts/catherine-princey-98a7001a2_dataanalytics-postgresql-datascience-activity-7167231899730468864-0ePo?utm_source=share&utm_medium=member_desktop
 
