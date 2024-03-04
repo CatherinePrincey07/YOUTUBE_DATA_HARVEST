@@ -1,5 +1,3 @@
-# Youtube_Data
-
 # YouTube Data Harvesting and Warehousing.
 
 ## Introduction 
