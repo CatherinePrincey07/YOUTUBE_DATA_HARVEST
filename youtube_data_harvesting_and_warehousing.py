@@ -1,5 +1,4 @@
-
-api_key='xxx' #your api key
+api_key='****' #your api key
 
 
 import pymongo
@@ -15,9 +14,9 @@ youtube = build(api_service_name, api_version, developerKey=api_key)
 #enter your credentials
 host = 'localhost'
 port ='5432'
-database = 'hhh' #the database youcreated
-username = 'zzz' #your username
-password = 'yyy' #your password
+database = '****' #the database youcreated
+username = '****' #your username
+password = '****' #your password
 #creating connection with postgresql 
 eta = psycopg2.connect(host=host, port=port, database=database, user=username, password=password)
 cursor=eta.cursor()
@@ -182,7 +181,7 @@ def get_comments_in_videos(youtube, video_id):
     return all_comments
 
 
-omega=pymongo.MongoClient("ggg")#enter the connection link from mongodb
+omega=pymongo.MongoClient("****")#enter the connection link from mongodb
 
 db=omega["project"]#creating the database to store all the colections
 col=db["Channels"]
